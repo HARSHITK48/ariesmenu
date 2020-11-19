@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ariesmenu/static/css/main.6342e96c.chunk.css",
+    "main.js": "/ariesmenu/static/js/main.1ac8a15b.chunk.js",
+    "main.js.map": "/ariesmenu/static/js/main.1ac8a15b.chunk.js.map",
+    "runtime-main.js": "/ariesmenu/static/js/runtime-main.cb9afdb3.js",
+    "runtime-main.js.map": "/ariesmenu/static/js/runtime-main.cb9afdb3.js.map",
+    "static/js/2.755954aa.chunk.js": "/ariesmenu/static/js/2.755954aa.chunk.js",
+    "static/js/2.755954aa.chunk.js.map": "/ariesmenu/static/js/2.755954aa.chunk.js.map",
+    "index.html": "/ariesmenu/index.html",
+    "static/css/main.6342e96c.chunk.css.map": "/ariesmenu/static/css/main.6342e96c.chunk.css.map",
+    "static/js/2.755954aa.chunk.js.LICENSE.txt": "/ariesmenu/static/js/2.755954aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb9afdb3.js",
+    "static/js/2.755954aa.chunk.js",
+    "static/css/main.6342e96c.chunk.css",
+    "static/js/main.1ac8a15b.chunk.js"
+  ]
+}
